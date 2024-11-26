@@ -1,5 +1,5 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Clipboard Mailto",
     "version": "0.1",
     "description": "Disables opening the mail provider when seeing mailto links and instead copies the mail address to the clipboard",
